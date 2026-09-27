@@ -6,11 +6,16 @@
 
 * A [jetbrains plugin for RimWorld Development that you can use with VS Code](https://plugins.jetbrains.com/plugin/21728-rimworld-development-environment/versions/stable)!
   * dotnet nuget update source "RimWorldDevEnv" --source "C:\Users\USER\Documents\VSCodeDotNet\LocalPackages"
-* Markdown to steam BB code .NET tool
+
+### Markdown to steam BB code .NET tool
+
+It's 2026. Write mod documentation in Markdown and then convert it to BBCode when you publish.
+
 ```bash
 # also needed to download .NET 7.0
 dotnet tool install -g Converter.MarkdownToBBCodeSteam.Tool
 ```
+
 ```json
 {
     // See https://go.microsoft.com/fwlink/?LinkId=733558
