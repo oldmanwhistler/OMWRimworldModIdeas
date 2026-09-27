@@ -14,20 +14,25 @@ Video game mods need a lot of in-game testing. People can use AI to create the m
 
 Vibe coding without tests is a bad time on any platform/language because reading/debugging code is harder than writing code.
 
-## What matters is quality
+## AI vs Quality
 
-If you are choosing to boycott AI then the existence of AI is enough for you to pass on things and that is fine. I think that's possible right now because we're in the early adoption phase of AI, but I have no illusions that you'll be able to make that distinction in the future (e.g. the author didn't use AI but they used tools that used AI).
+If you are choosing to boycott AI then the existence of AI is enough for you to pass on things and that is fine. I hope Steam adds an AI disclosure flag to mods to make it easier for you.
 
-If you have any kind of retirement strategy with index funds or mutual funds you are more exposed to AI than if you used some video game mod.
+As someone who falls more in the "I need to understand AI to keep my job and feed my family" camp, I think two big problems with AI are:
 
-As someone who falls more in the "I need to understand AI to keep my job and feed my family" camp, I think the two big problems with AI are:
+1. AI makes it easier to publish with low effort.
+2. AI exponentially increases the signal-to-noise problem in all content on all platforms.
+3. AI can increase the rate-of-change of updates, which reduces stability, which causes no end of problems for users. (Why is VS Code updating 2-3 times a week?!)
 
-1. AI exponentially increases the signal-to-noise problem in all content on all platforms.
-2. AI increases the rate-of-change of updates, which reduces stability, which causes no end of problems to end users.
+## Steam Workshop Mod Updates
 
-When you look at a mod you want to see that the author is fixing issues vs it being abandoned, but you also want to see some stability and that things are changing at content milestones.
+Steam workshop is downloading mod updates all the time. [It now has a view of the latest updates you are subscribed to](https://steamcommunity.com/id/oldmanwhistler/myworkshopfiles?appid=294100&browsefilter=mysubscriptions&sortmethod=lastupdated) and if you have a big enough mod collection, you will notice daily updates.
 
-Letting your users find your bugs is a problem that has existed long before AI was introduced to modding.
+I haven't tried it yet, but Ferny has a [Localization mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3794747458) that allows you to "freeze" mods which should greatly increase stability on a modded playthrough.
+
+I suspect RimSort also enables a workflow where you download mods outside of Steam.
+
+It would be great if steam left you decide when you were open to downloading updates.
 
 ## How I have a good time with mods in 2026
 
@@ -53,10 +58,9 @@ When you find cool stuff on "latest updates", stick them in a [workshop collecti
 
 * Don't count how many mods you've bookmarked. **Never count**
 * When you do look at them, check the comments for bugs, was the mod maintained, how many subscriptions it has, how many collections it is in. Quality indicators aren't there on when the mod is first uploaded.
-
-Does it have a github and an open source license? That is a potential sign of quality. If it has source code and a permissible license that means it can be maintained when the original modder switches games.
-
-You can also look at the github history and get some indicator of how long the mod was under development before it was released, as well as seeing how active the author is in general.
+* Run short test games with new mods to get them info an interesting part.
+* Does it have a github and an open source license? That is a potential sign of quality. If it has source code and a permissible license that means it can be maintained after it is abandoned.
+  * You can also look at the github history and get some indicator of how long the mod was under development before it was released, as well as seeing how active the author is in general.
 
 ## Recommendations for not bricking your save
 
