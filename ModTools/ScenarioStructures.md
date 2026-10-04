@@ -42,3 +42,5 @@ This will create a KCSG.StructureLayoutDef on your clipboard and you have to pas
 ## Scenarios
 
 VEF will add `add custom structure` to the scenario parts which you can use to add your KCSG.StructureLayoutDef to a scenario.
+
+You can use the scenario editor to edit and test your scenario before adding it to your mod. Scenarios will be saved at: `%USERPROFILE%\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Scenarios`

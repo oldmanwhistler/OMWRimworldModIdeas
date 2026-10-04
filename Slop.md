@@ -54,7 +54,7 @@ I also strongly recommend using the [Rimworld Workshop](https://steamcommunity.c
 
 ### Solution 3: Aging and Quality Indicators
 
-When you find cool stuff on "latest updates", stick them in a [workshop collection of bookmarked mods to try out](https://steamcommunity.com/sharedfiles/filedetails/?id=3569495245).
+When you find cool stuff on "latest updates", stick them in a workshop collection of bookmarked mods to try out.
 
 * Don't count how many mods you've bookmarked. **Never count**
 * When you do look at them, check the comments for bugs, was the mod maintained, how many subscriptions it has, how many collections it is in. Quality indicators aren't there on when the mod is first uploaded.
@@ -70,10 +70,14 @@ Use RimSort for organizing your mods. Not RimPy and not in-game mod sorters.
 
 ### Recommendation: RimSort mod lists
 
-Use RimSort's save/load mod list features when you want to try out something.
+Use RimSort's save/load mod list features when you want to try out something. Test new mods *outside* of your permanent games.
 
 Pro-tip: stick the lists inside of a version control tool if you're a real geek.
 
 ### Recommendation: auto-saves
 
  Keep a lot of autosaves so you can go back farther in time to before a mod issue happened. I use [RimSaves](https://steamcommunity.com/sharedfiles/filedetails/?id=1713367505).
+
+### Recommendation: Pause Mod Updates
+
+Pause mod updates either using `Localization` or `RimSort`.
