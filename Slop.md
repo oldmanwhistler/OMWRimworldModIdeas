@@ -18,7 +18,7 @@ Vibe coding without tests is a bad time on any platform/language because reading
 
 If you are choosing to boycott AI then the existence of AI is enough for you to pass on things and that is fine. I hope Steam adds an AI disclosure flag to mods to make it easier for you.
 
-As someone who falls more in the "I need to understand AI to keep my job and feed my family" camp, I think two big problems with AI are:
+As someone who falls more in the "I need to understand AI to keep my job and feed my family" camp, I think the big problems implicit with AI technology are:
 
 1. AI makes it easier to publish with low effort.
 2. AI exponentially increases the signal-to-noise problem in all content on all platforms.
@@ -32,7 +32,7 @@ I haven't tried it yet, but Ferny has a [Localization mod](https://steamcommunit
 
 I suspect RimSort also enables a workflow where you download mods outside of Steam.
 
-It would be great if steam left you decide when you were open to downloading updates.
+It would be great if steam left you decide when you were "open" to updating mods.
 
 ## How I have a good time with mods in 2026
 
